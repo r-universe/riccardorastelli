@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "expSBM"]
 	path = expSBM
 	url = https://github.com/cran/expSBM
-	shallow = true
-	registered = true
 [submodule "GreedyEPL"]
 	path = GreedyEPL
 	url = https://github.com/cran/GreedyEPL
-	shallow = true
-	registered = true
 [submodule "IrishDirectorates"]
 	path = IrishDirectorates
 	url = https://github.com/cran/IrishDirectorates
-	shallow = true
-	registered = true
 [submodule "SparseLPM"]
 	path = SparseLPM
 	url = https://github.com/cran/SparseLPM
-	shallow = true
-	registered = true
