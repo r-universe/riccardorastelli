@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "expSBM"]
-	path = expSBM
-	url = https://github.com/cran/expSBM
 [submodule "GreedyEPL"]
 	path = GreedyEPL
 	url = https://github.com/cran/GreedyEPL
@@ -14,3 +11,6 @@
 [submodule "SparseLPM"]
 	path = SparseLPM
 	url = https://github.com/cran/SparseLPM
+[submodule "expSBM"]
+	path = expSBM
+	url = https://github.com/cran/expSBM
